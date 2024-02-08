@@ -3,7 +3,7 @@
 ## Clone the repo
 
 ``` bash
-git clone https://github.com/slightlynerd/react-node-video-streaming.git
+git clone https://github.com/abhi-vk/Video-Streaming-webpage.git
 ```
 
 ## Setup and Start Node Server
